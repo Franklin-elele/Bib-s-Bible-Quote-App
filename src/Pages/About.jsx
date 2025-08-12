@@ -1,5 +1,5 @@
 import React from "react";
-import bible from "../assets/bible.jpg";
+import Bible from "../assets/Bible.jpg";
 import Bible from "../assets/Teaching.svg"
 import { motion } from "framer-motion";
 
