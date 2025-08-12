@@ -7,5 +7,6 @@ import './index.css'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <App />
+    <link rel="website-icon" type="Bib's" href='../src/assets/file.svg'/>
   </React.StrictMode>,
 )
